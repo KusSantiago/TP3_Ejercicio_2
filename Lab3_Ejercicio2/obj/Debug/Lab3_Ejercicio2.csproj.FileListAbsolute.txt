@@ -1,0 +1,11 @@
+C:\Users\Kus\source\repos\Lab3_Ejercicio2\bin\Debug\Lab3_Ejercicio2.exe.config
+C:\Users\Kus\source\repos\Lab3_Ejercicio2\bin\Debug\Lab3_Ejercicio2.exe
+C:\Users\Kus\source\repos\Lab3_Ejercicio2\bin\Debug\Lab3_Ejercicio2.pdb
+C:\Users\Kus\source\repos\Lab3_Ejercicio2\obj\Debug\Lab3_Ejercicio2.MainForm.resources
+C:\Users\Kus\source\repos\Lab3_Ejercicio2\obj\Debug\Lab3_Ejercicio2.Properties.Resources.resources
+C:\Users\Kus\source\repos\Lab3_Ejercicio2\obj\Debug\Lab3_Ejercicio2.VentanaCrearEmpleado.resources
+C:\Users\Kus\source\repos\Lab3_Ejercicio2\obj\Debug\Lab3_Ejercicio2.csproj.GenerateResource.cache
+C:\Users\Kus\source\repos\Lab3_Ejercicio2\obj\Debug\Lab3_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Kus\source\repos\Lab3_Ejercicio2\obj\Debug\Lab3_Ejercicio2.exe
+C:\Users\Kus\source\repos\Lab3_Ejercicio2\obj\Debug\Lab3_Ejercicio2.pdb
+C:\Users\Kus\source\repos\Lab3_Ejercicio2\obj\Debug\Lab3_Ejercicio2.csproj.AssemblyReference.cache
